@@ -1,9 +1,9 @@
-#ChatBot
+# ChatBot
 
-###Introdução
+### Introdução
 Este chatbot foi criado durante a primeira etapa do processo seletivo da Eteg Technologies.
 
-###Especificações
+### Especificações
 - Menu
 	- Começar: Dá boas vindas e instruções de utilização ao usuário.
 	- O que sei fazer: retorna o objetivo e as capacidades do Bot. (2a)
