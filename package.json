@@ -1,5 +1,5 @@
 {
-  "name": "blipanimals",
+  "name": "blipchat",
   "version": "1.0.0",
   "description": "Chatbot com maquina de estados utilizando o blip.ai",
   "main": "index.js",
@@ -9,18 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brenoqueiroz/blip-arvore-navegacao.git"
+    "url": "git+https://github.com/ferreiraalves/chatbot.git"
   },
   "keywords": [
     "chatbot",
     "blip"
   ],
-  "author": "brenoqueiroz",
+  "author": "ferreiraalves",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/brenoqueiroz/blip-arvore-navegacao/issues"
-  },
-  "homepage": "https://github.com/brenoqueiroz/blip-arvore-navegacao#readme",
   "dependencies": {
     "lime-transport-websocket": "^2.0.2",
     "messaginghub-client": "^3.3.0"
