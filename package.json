@@ -19,6 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "lime-transport-websocket": "^2.0.2",
-    "messaginghub-client": "^3.3.0"
+    "messaginghub-client": "^3.3.0",
+    "express": "4.15.2"
   }
 }
