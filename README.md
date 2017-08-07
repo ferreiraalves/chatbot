@@ -15,5 +15,10 @@ Este chatbot foi criado durante a primeira etapa do processo seletivo da Eteg Te
 		- Sessão Encerrada:
 			-   Neste estado os demais comandos não são mais acessíveis. A opção "Começar" deve ser escolhida para reiniciar a sessão.
 
-###Proposta de melhoria
+### Proposta de melhoria
 As técnicas utilizadas para atender ao requisito 3 poderiam ser, em um projeto futuro, utilizadas em conjunto com conceitos de Machine Learning para classificar o tipo de atendimento desejado de maneira mais natural. No entanto, seria necessário um data set considerável para realizar o treinamento e otimização dos parâmetros.
+
+
+### Exemplo de utilização
+
+[YouTube](https://youtu.be/tB_uxxetl50)
