@@ -22,7 +22,8 @@
     "express": "4.15.2",
     "istanbul": "^0.4.5",
     "lime-transport-websocket": "^2.0.2",
-    "messaginghub-client": "^3.3.0"
+    "messaginghub-client": "^3.3.0",
+    "newrelic": "^2.0.2"
   },
   "scripts": {
     "test-with-coverage": "istanbul cover _mocha --report lcovonly -- -R spec && cat ./coverage/lcov.info | codacy-coverage && rm -rf ./coverage"
