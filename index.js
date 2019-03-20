@@ -85,10 +85,10 @@ client.connect()
         switch (userSession.resource.sessionState) {
           case 'Sair':
           if (m.type == 'text/plain'
-          && (m.content.toLowerCase().trim() == 'adorei'
-          || m.content.toLowerCase().trim() == 'gostei'
-          || m.content.toLowerCase().trim() == 'não gostei'
-          || m.content.toLowerCase().trim() == 'odiei')) {
+          && (m.content.toLowerCase().trim() == "adorei"
+          || m.content.toLowerCase().trim() == "gostei"
+          || m.content.toLowerCase().trim() == "não gostei"
+          || m.content.toLowerCase().trim() == "odiei")) {
 
             let command = {
               "id": Lime.Guid(),
