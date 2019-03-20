@@ -18,8 +18,9 @@
   "author": "ferreiraalves",
   "license": "MIT",
   "dependencies": {
+    "express": "4.15.2",
     "lime-transport-websocket": "^2.0.2",
     "messaginghub-client": "^3.3.0",
-    "express": "4.15.2"
+    "newrelic": "^2.0.2"
   }
 }
